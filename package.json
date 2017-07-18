@@ -1,0 +1,36 @@
+{
+  "name": "dbschema-mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose / MongodDB generator logic for dbschema-parser and dbschema-parser-cli",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEANFactory/dbschema-mongoose.git"
+  },
+  "keywords": [
+    "dbschema",
+    "mongoose",
+    "mongo",
+    "mongodb",
+    "schema",
+    "parser"
+  ],
+  "author": {
+    "name": "MEAN Factory",
+    "email": "info@meanfactory.com",
+    "url": "http://www.meanfactory.com"
+  },
+  "contributors": [
+    {
+      "name": "Fred Lackey",
+      "email": "fred.lackey@gmail.com",
+      "url": "http://www.fredlackey.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MEANFactory/dbschema-mongoose/issues"
+  },
+  "homepage": "https://github.com/MEANFactory/dbschema-mongoose#readme",
+  "dependencies": {}
+}
