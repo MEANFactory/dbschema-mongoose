@@ -8,6 +8,14 @@ This project is a resource of the [dbschema-parser](https://github.com/MEANFacto
 
 `npm install -g dbschema-mongoose`
 
+## Updates
+
+`v1.1.0 (20170726)`  
+- disabled enhanced output by default  
+- index files now generated as an option  
+- added ability to reduce output folder structure    
+- added ability to limit output to single database and/or schema
+
 
 ## About MEAN Factory
 
