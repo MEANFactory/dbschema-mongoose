@@ -1,6 +1,6 @@
 {
   "name": "dbschema-mongoose",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "description": "Mongoose / MongodDB generator logic for dbschema-parser and dbschema-parser-cli",
   "main": "lib/index.js",
   "repository": {
@@ -32,5 +32,7 @@
     "url": "https://github.com/MEANFactory/dbschema-mongoose/issues"
   },
   "homepage": "https://github.com/MEANFactory/dbschema-mongoose#readme",
-  "dependencies": {}
+  "dependencies": {
+    "mf-utils-node": "^1.0.10"
+  }
 }
