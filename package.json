@@ -1,6 +1,6 @@
 {
   "name": "dbschema-mongoose",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Mongoose / MongodDB generator logic for dbschema-parser and dbschema-parser-cli",
   "main": "lib/index.js",
   "repository": {
